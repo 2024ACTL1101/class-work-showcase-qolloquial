@@ -9,6 +9,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ---
 
+![Quest Guide](quest.jpg)
+
 * [Probability](probability.md)
 * [Financial Mathematics](financial_math.md)
 * [Life Insurance and Annuity](life.md)
